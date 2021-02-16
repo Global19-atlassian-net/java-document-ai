@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.3.10](https://www.github.com/googleapis/java-document-ai/compare/v0.3.9...v0.3.10) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#338](https://www.github.com/googleapis/java-document-ai/issues/338)) ([33a1eda](https://www.github.com/googleapis/java-document-ai/commit/33a1eda531d6c5d71a49976fa31bbaf0754cf83a))
+
 ### [0.3.9](https://www.github.com/googleapis/java-document-ai/compare/v0.3.8...v0.3.9) (2021-01-14)
 
 
